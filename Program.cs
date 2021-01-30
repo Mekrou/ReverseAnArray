@@ -13,8 +13,11 @@ namespace ReversingAnArray
         static void Main(string[] args)
         {
             int[] array = GenerateArray(10, 1, 956);
+            Console.Write("Original Array: ");
             PrintArray(array);
+
             int[] reversedArray = ReverseArray(array);
+            Console.Write("Reversed Array: ");
             PrintArray(reversedArray);
             
         }
@@ -34,14 +37,14 @@ namespace ReversingAnArray
             return array;
         }
 
+        /// <summary>
+        /// Reverses an array using a for loop and a tenp variable (explained below!)  
+        /// </summary>
+        /// <param name="array">The array that will be reversed</param>
+        /// <returns>Returns the reversed array (*NOT* a copy)</returns>
         static int[] ReverseArray(int[] array)
         {
-            int firstValue = array[0];
-            int lastvalue = array[array.Length - 1];
             int temp = 0;
-
-            Console.WriteLine(firstValue);
-            Console.WriteLine(lastvalue);
 
             for (int i = 0; i < array.Length / 2; i++)
             {
