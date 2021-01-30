@@ -19,6 +19,7 @@ namespace ReversingAnArray
             
         }
 
+        // Generates an int[] array with random numbers.
         static int[] GenerateArray(int size, int min, int max)
         {
             var rand = new Random();
@@ -44,7 +45,8 @@ namespace ReversingAnArray
 
             for (int i = 0; i < array.Length / 2; i++)
             {
-                // Since arrays are 0-based, the amount of indices we have is array.Length - 1. If we subtract our current index from that we get the number on the other "side"
+                // Since arrays are 0-based, the amount of indices we have is array.Length - 1. If we subtract our current index from that 
+                // we get the number on the other "side"
                 // of the array.
 
                 // we have to store the value we are replacing with to replace the other side
@@ -59,6 +61,7 @@ namespace ReversingAnArray
             return array;
         }
 
+        // Simply prints the passed array.
         static void PrintArray(int[] array)
         {
             foreach ( int number in array)
