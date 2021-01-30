@@ -1,0 +1,16 @@
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.exe
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.deps.json
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.runtimeconfig.json
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.runtimeconfig.dev.json
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.dll
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ref\ReversingAnArray.dll
+C:\Users\mekrm\source\repos\ReversingAnArray\bin\Debug\net5.0\ReversingAnArray.pdb
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.csprojAssemblyReference.cache
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.AssemblyInfoInputs.cache
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.AssemblyInfo.cs
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.dll
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ref\ReversingAnArray.dll
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.pdb
+C:\Users\mekrm\source\repos\ReversingAnArray\obj\Debug\net5.0\ReversingAnArray.genruntimeconfig.cache
