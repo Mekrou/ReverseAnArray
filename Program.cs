@@ -38,7 +38,7 @@ namespace ReversingAnArray
         }
 
         /// <summary>
-        /// Reverses an array using a for loop and a tenp variable (explained below!)  
+        /// Reverses an array using a for loop and a temp variable (explained below!)  
         /// </summary>
         /// <param name="array">The array that will be reversed</param>
         /// <returns>Returns the reversed array (*NOT* a copy)</returns>
